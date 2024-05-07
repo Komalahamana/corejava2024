@@ -1,0 +1,15 @@
+package com.ksg.AccessModifire;
+
+public class ChildExtendsParents {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		   
+		        
+		        
+		        System.out.println("Child main method!!!");
+		    
+ 
+	}
+
+}
