@@ -2,9 +2,23 @@ package com.ksg.oops;
 
 public class Sum {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+		
+
+	    public int sum(int x, int y) {
+
+	        return x + y;
+	    }
+
+	    public int sum(int x, int y, int z) {
+	        return x + y + z;
+	    }
+
+	    public double sum(double x, double y) {
+	        return x + y;
+	    }
+
 
 	}
 
-}
+
