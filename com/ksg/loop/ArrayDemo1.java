@@ -12,7 +12,8 @@ public class ArrayDemo1 {
 	            System.out.println(c[i]); 
 	            
 	        }
-
+	        
+	       
 	}
 
 }
