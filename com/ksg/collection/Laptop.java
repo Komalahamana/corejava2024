@@ -1,19 +1,19 @@
 package com.ksg.collection;
 
-public class TestDemo {
+public class Laptop {
+
+	public int id;
 	
-	private int id ;
-	private String name;
+	public String name;
 	
-	public void Student(int id ,String name) {
-		
+	public Laptop (int id, String name) {
 		
 		this.id = id;
-		this .name = name;
-		
-		
+		this.name= name;
 		
 	}
+
+	
 
 	public int getId() {
 		return id;
@@ -31,10 +31,14 @@ public class TestDemo {
 		this.name = name;
 	}
 	
-	
+	@Override
+    public String toString() {
+        return "Student [id=" + id + ", name=" + name + "]";
+    }
+
+
 	
 
-		
-	} 
+	}
 
 
