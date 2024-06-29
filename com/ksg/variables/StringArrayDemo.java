@@ -7,6 +7,7 @@ public class StringArrayDemo {
 		String [] s1 = {"Ram","Satish","Hari"};
 				
 				System.out.println(s1[2]);
+				System.out.println(s1[0]);
 		
 	}
 

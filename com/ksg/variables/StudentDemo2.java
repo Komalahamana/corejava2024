@@ -2,7 +2,7 @@ package com.ksg.variables;
 
 public class StudentDemo2 {
 
-	int id ;
+	int id;
 	
     String name;
     
